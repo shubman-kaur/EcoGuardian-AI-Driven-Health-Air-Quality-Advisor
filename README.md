@@ -11,8 +11,7 @@
 ## 🛠️ Technical Stack
 - **Language:** Python 3.x
 - **Libraries:** Scikit-Learn (Machine Learning), Pandas (Data Manipulation), NumPy (Numerical Analysis), Matplotlib/Seaborn (Visualization).
-- **Environment:** Google Colab / Jupyter Notebook.
-
+- **Environment:** Google Colab 
 ## 📊 How It Works
 The model follows a rigorous 4-step pipeline:
 1. **Cleaning:** Standardizing raw sensor logs and handling missing values ($NA$).
